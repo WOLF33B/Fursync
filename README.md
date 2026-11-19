@@ -1,2 +1,2 @@
 # Fursync
-Companion app for Riot Compatible Firmware and FurSync Hardware ecosystem.
+Companion app for FurSync ecosystem or Redstudio Internet Of Things Compatible Firmware(R.I.O.T)
