@@ -77,7 +77,7 @@ FurSync Recommended requirement:
 
 ## Privacy And Data Policy
 
-* **100% Local Data**: All device settings, nicknames, bios, and usage history remain strictly stored on your phone.
+* **100% Local Data**: All device settings, nicknames, bio, and usage history remain strictly stored on your phone.
 * **Internet usage** : The app only use internet at boot to check update, the app only contact one way communication to publicly available server such as github without reporting anything else
 * **Zero Telemetry**: We do not collect, track, store, or sell any personal data, analytics, or location details.
 * **Zero Ads & Zero In-App Purchases**: FurSync is free software provided for the fursync ecosystem.
