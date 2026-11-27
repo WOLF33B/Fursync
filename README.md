@@ -1,4 +1,3 @@
-that great but i changing to it. please read it to make sure it correct
 # FurSync (RIOT FurSync)
 
 > **Companion App for the Fursync Ecosystem**
